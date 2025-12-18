@@ -23,4 +23,12 @@ Backend
 - Express.js
 ---
 
-## 📂 Project Structure
+Project Structure
+
+├── public/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+├── server.js
+├── package.json
+└── README.md
